@@ -54,7 +54,7 @@ logo = """
 \033[1;91m╚═╝░░░░░╚═╝╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92m Rafin
-\033[1;96mInstagram \033[1;93m: \033[1;Flow Rafin
+\033[1;96mInstagram \033[1;93m: \033[1;Flow Rafin Chowdhury
 \033[1;96mFacebook  \033[1;93m: \033[1;  I.Fuek.YoUr.MiND.BnXD
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/Rafin.Vau
 \033[1;91m======================================="""
@@ -78,7 +78,7 @@ os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mRafin
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlow Rafin
+\033[1;96mInstagram \033[1;93m: \033[1;92mFlow Rafin Chowdhury
 \033[1;96mFacebook  \033[1;93m: \033[1;92m I.Fuek.YoUr.MiND.BnXD
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/Rafin.Vau
 \033[1;91m======================================="""
