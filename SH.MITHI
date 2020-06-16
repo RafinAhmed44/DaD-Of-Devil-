@@ -139,7 +139,7 @@ def menu():
             time.sleep(1)
             login()
         except requests.exceptions.ConnectionError:
-            print '\x1b[1;91m[!] SH YOUR GOOD'         keluar()
+            print '\x1b[1;91m[!] Done'         keluar()
 
     os.system('clear')
     print logo
